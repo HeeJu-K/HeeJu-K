@@ -1,5 +1,7 @@
 ### Hi there! I'm HeeJu 👋
 
+### 👩🏻‍💻 &nbsp;About Me
+
 <!--
 **HeeJu-K/HeeJu-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
