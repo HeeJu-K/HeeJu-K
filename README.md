@@ -1,6 +1,6 @@
 ### Hi there! I'm HeeJu 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full Stack Developer+Looking for SDE roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Looking+for+SDE+roles)](https://git.io/typing-svg)
 
 ### 👩🏻‍💻 &nbsp;About Me
 
