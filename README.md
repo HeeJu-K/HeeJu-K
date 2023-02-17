@@ -6,7 +6,7 @@
 🎓 &nbsp;I'm currently studying Computer Science at the University of Washington.\
 🌱 &nbsp;I'm on track for learning more about 🤖Artificial Intelligence, and ⛓Blockchain technologies.\
 📷 &nbsp;I love to go on hiking and take photogrphs in my free time. Seattle is such a nice place to explore!\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+<!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 💬 &nbsp;Feel free to reach out to me through heejuk.dev@gmail.com, for any interesting discussions!\
 
 ### 🛠 &nbsp;Tech Stack
