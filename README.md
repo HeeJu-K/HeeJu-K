@@ -1,6 +1,10 @@
-### Hi there! I'm HeeJu 👋
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 👋
+<!-- <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> -->
+</h2>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Looking+for+SDE+roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Actively+looking+for+SDE+roles)](https://git.io/typing-svg)
 
 ### 👩🏻‍💻 &nbsp;About Me
 
@@ -11,6 +15,12 @@
 📷 &nbsp;I love to go on hiking and take photogrphs in my free time. Seattle is such a nice place to explore! \
 💬 &nbsp;Feel free to reach out to me through heejuk.dev@gmail.com, for any interesting discussions!\
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
+
+![HeeJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeeJu-K&show_icons=true&theme=swift)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeeJu-K&layout=compact)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeeJu-K&layout=compact)](https://github.com/HeeJu-K/github-readme-stats) -->
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -37,6 +47,11 @@
 <!-- ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp; -->
 <!-- ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\ -->
 
+<p align="center">
+    <a href="https://github.com/HeeJu-K" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@HeeJu-K?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/HeeJu-K" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    
+</p>
 
 <!--
 **HeeJu-K/HeeJu-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
