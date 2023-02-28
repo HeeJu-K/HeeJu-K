@@ -8,11 +8,12 @@
 
 ### 👩🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science at the University of Washington.<img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/98/2014/09/07214441/Signature_Left_Purple_Hex.png" width="250" height = "18">
+🎓 &nbsp;I'm currently pursuing graduate degree of Computer Science at the University of Washington <img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/98/2014/09/07214441/Signature_Left_Purple_Hex.png" width="100" height = "7">, previously went to Tsinghua University, majored in Electronic Engineering.
 \
+💡 &nbsp;I like things that are certain. I enjoy coding for the same reason, as it never reports an error that does not exist.\
 🌱 &nbsp;I'm on track for learning more about 🤖Artificial Intelligence, and ⛓Blockchain technologies.\
-📷 &nbsp;I love to go on hiking and take photogrphs in my free time. Seattle is such a nice place to explore! \
+💻 &nbsp;I'm on track for learning more about 🤖Artificial Intelligence, and ⛓Blockchain technologies.\
+📷 &nbsp;I love to go on hiking and take photographs in my free time. \
 💬 &nbsp;Feel free to reach out to me through heejuk.dev@gmail.com, for any interesting discussions!\
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
