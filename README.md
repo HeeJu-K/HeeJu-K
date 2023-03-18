@@ -7,7 +7,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Actively+looking+for+SDE+roles)](https://git.io/typing-svg) -->
 <div style="width: 100%; margin-top: 100px; font-family: Arial, sans-serif;">
   <!-- Replace the value of lines with your desired text -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Actively+looking+for+SDE+roles" style="width: 100%;/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Actively+looking+for+SDE+roles" style="width: 900px;/>
 </div>
 
 ### 👩🏻‍💻 &nbsp;About Me
