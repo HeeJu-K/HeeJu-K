@@ -16,7 +16,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Computer Science (GIX) at the University of Washington.<img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/98/2014/09/07214441/Signature_Left_Purple_Hex.png" width="250" height = "18">
 \
-🎓 &nbsp;I previously went to Electronic Engineering at Tsinghua Univesity for my Bachelor's Degree.<img src="https://logotyp.us/files/tsinghua-university.svg" width="50vw" >
+🎓 &nbsp;I previously went to Electronic Engineering at Tsinghua Univesity for my Bachelor's Degree.<img src="https://logotyp.us/files/tsinghua-university.svg" width="100vw" >
 \
 <!-- 🌱 &nbsp;I'm on track for learning more about ☁️cloud, 🥽VR and ⛓Blockchain technologies.\ -->
 📷 &nbsp;Based at Seattle, I love to go on hiking and take photographs in my free time. Seattle is such a nice place to explore! \
