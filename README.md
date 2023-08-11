@@ -24,7 +24,7 @@
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=HeeJu-K&amp;show_icons=true&amp;theme=radical" alt="GitHub Readme Stats" style="width: 50%;">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=HeeJu-K&amp;show_icons=true&amp;theme=radical" alt="GitHub Readme Stats" style="width: 50%;"> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeeJu-K&layout=compact&amp;show_icons=true&amp;theme=radical" alt="Top Langs" style="width: 38.18%;">
 </div>
 
