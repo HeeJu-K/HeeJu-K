@@ -18,8 +18,10 @@
 \
 🎓 &nbsp;Before that, I studied EECS at Tsinghua Univesity for my Bachelor's Degree.<img src="https://raw.githubusercontent.com/HeeJu-K/HeeJu-K/main/Tsinghua_logo-cropped.svg" width="100" height="28" >
 \
-📷 &nbsp;I'm based at Seattle, and I love dancing and taking photos. \
-💬 &nbsp;Feel free to reach out to me through heejuk.dev@gmail.com, for any interesting discussions!\
+🏆 &nbsp;I have previously won several hackathons, such as EthDenver, ScalingEthereum, Amazon HeackSEA and Aleo ZK House, securing $4000 in total! \
+📍 &nbsp;Based at the rainy city Seattle! \
+🔭 &nbsp;If you're also a developer that is into star gazing, or dancing, photography, or even the quantum world, we should chat! \
+💬 &nbsp;Feel free to reach out to me through heejuk.dev@gmail.com, for any interesting discussions! \
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
 <div>
