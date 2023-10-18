@@ -14,13 +14,12 @@
 
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying Computer Science (GIX) at the University of Washington.<img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/98/2014/09/07214441/Signature_Left_Purple_Hex.png" width="250" height = "18">
+🎓 &nbsp;I'm currently a Computer Science (GIX) student at the University of Washington.<img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/98/2014/09/07214441/Signature_Left_Purple_Hex.png" width="250" height = "18">
 \
-🎓 &nbsp;I previously went to Electronic Engineering at Tsinghua Univesity for my Bachelor's Degree.<img src="https://raw.githubusercontent.com/HeeJu-K/HeeJu-K/main/Tsinghua_logo-cropped.svg" width="100" height="28" >
+🎓 &nbsp;Before that, I studied EECS at Tsinghua Univesity for my Bachelor's Degree.<img src="https://raw.githubusercontent.com/HeeJu-K/HeeJu-K/main/Tsinghua_logo-cropped.svg" width="100" height="28" >
 \
-📷 &nbsp;Based at Seattle, I love to go on hiking and take photographs in my free time. Seattle is such a nice place to explore! \
+📷 &nbsp;I'm based at Seattle, and I love dancing and taking photos. \
 💬 &nbsp;Feel free to reach out to me through heejuk.dev@gmail.com, for any interesting discussions!\
-<!-- 🌱 &nbsp;I'm on track for learning more about ☁️cloud, 🥽VR and ⛓Blockchain technologies.\ -->
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
 <div>
@@ -31,17 +30,17 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=1572B6)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue&logoColor=1572B6)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Web3](https://img.shields.io/badge/-Web3-05122A?style=flat&logo=web3)&nbsp;
-![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp;
-![Matlab](https://img.shields.io/badge/-Matlab-05122A?style=flat&logo=matlab)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=Tailwind&logoColor=00599C)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap&logoColor=00599C)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=FFA518)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask&logoColor=FFA518)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=FFA518)&nbsp;
+![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity&logoColor=FFA518)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=FFA518)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 
 <!-- ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
