@@ -14,12 +14,12 @@
 
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🌎 &nbsp;I am Trilingual (Korean, Chinese, English), a Korean raised in China for 17 years and now studying in the United States.\
 🎓 &nbsp;I'm currently a Computer Science (GIX) student at the University of Washington.<img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/98/2014/09/07214441/Signature_Left_Purple_Hex.png" width="250" height = "18">
 \
 🎓 &nbsp;Before that, I studied EECS at Tsinghua Univesity for my Bachelor's Degree.<img src="https://raw.githubusercontent.com/HeeJu-K/HeeJu-K/main/Tsinghua_logo-cropped.svg" width="100" height="28" >
 \
 🏆 &nbsp;I have previously won several hackathons, such as EthDenver, ScalingEthereum, Amazon HeackSEA and Aleo ZK House, securing $4000 in total! \
+🌎 &nbsp;I am Trilingual (Korean, Chinese, English), a Korean raised in China for 17 years and now studying in the United States.\
 📍 &nbsp;Based at the rainy city Seattle! \
 🔭 &nbsp;If you're also a developer that is into star gazing, or dancing, photography, or even the quantum world, we should chat! \
 💬 &nbsp;Feel free to reach out to me through heejuk.dev@gmail.com, for any interesting discussions! \
